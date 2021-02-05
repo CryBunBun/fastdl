@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/misc/banana_joe/slow_mouth"
+
+	"$translucent" 1
+	"$nocull" 1
+}
