@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/neptunia/Million_Arthur/swimwear/face2_c"
+
+
+"$nodecal" "1"
+
+
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "8"
+}
+}
+}
