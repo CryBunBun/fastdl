@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	$basetexture "maoling/player/touhou/flandre_scarlet/428_body_kneeso_base"
+	$bumpmap  "maoling/player/touhou/flandre_scarlet/428_body_kneeso_base_normal"
+	$halflambert 1
+	$phong 1
+	$phongexponent 30
+	$phongboost 2.5
+	$phongfresnelranges	"[0 0.5 1]"
+	$phongtint "[.85 .85 1]"
+}
