@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$basetexture "maoling/player/touhou/flandre_scarlet/428_head_kiwa_a"
+	$bumpmap "maoling/player/touhou/flandre_scarlet/428_head_kiwa_a_normal"
+	$nocull 1
+	$halflambert 0
+	$phong 1
+	$phongexponent 30
+	$phongboost 2.5
+	$phongfresnelranges	"[0 0.5 1]"
+	$phongtint "[.85 .85 1]"
+}
