@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/kantai_collection/shimakaze/0siki_5ren_cover"
+	//"$nocull" 1
+}
