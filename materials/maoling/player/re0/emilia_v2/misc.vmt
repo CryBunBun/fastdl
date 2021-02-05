@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/re0/emilia_v2/misc"
+	"$halflambert"			"1"
+	"$translucent"			"1"
+}
