@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "maoling/player/vocaloid/hatsune_miku/nightmare/tech"
+
+	"$color" "[0.75 0.75 0.75]"
+	"$nodecal" "1"
+	"$model" "1"
+}
