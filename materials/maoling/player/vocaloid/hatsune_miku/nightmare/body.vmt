@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/vocaloid/hatsune_miku/nightmare/body"
+	"$bumpmap" "maoling/player/vocaloid/hatsune_miku/nightmare/normal"
+
+	"$lightwarptexture" "maoling/player/vocaloid/hatsune_miku/nightmare/basewarp"
+
+	"$phong" "1"
+	"$phongboost"	".05"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "maoling/player/vocaloid/hatsune_miku/nightmare/phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+
+	"$detail" "maoling/player/vocaloid/hatsune_miku/nightmare/body_illum"
+	"$detailscale" "1"
+	"$detailblendfactor" "0.075"
+	"$detailblendmode" "5"
+}
