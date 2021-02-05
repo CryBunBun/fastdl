@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	//"$basetexture" "maoling/player/haipa/black"
+	//"$nocull" 1
+	$color "{255 255 255}"
+
+}
