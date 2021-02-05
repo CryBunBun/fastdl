@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "maoling/player/closeronline/seulbi/gang"
+    	"$bumpmap" "maoling/player/closeronline/seulbi/normal"
+
+	"$lightwarptexture" "maoling/player/closeronline/seulbi/clothwarp"
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+
+}
