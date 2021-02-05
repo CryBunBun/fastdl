@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/lovelive/kotori/school/kao"
+	//"$nocull" 1
+}
