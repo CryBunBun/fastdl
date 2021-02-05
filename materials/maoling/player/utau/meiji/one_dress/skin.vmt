@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/utau/meiji/one_dress/skin"
+	"$bumpmap" "maoling/player/utau/meiji/one_dress/normal"
+
+	"$lightwarptexture" "maoling/player/utau/meiji/one_dress/facewarp"
+
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "maoling/player/utau/meiji/one_dress/phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "2"
+}
