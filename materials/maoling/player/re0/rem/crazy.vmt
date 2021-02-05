@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/re0/rem/eyes"
+
+	//$nocull 1
+	//"$translucent" "1"
+	$no_Draw 1
+}
+
