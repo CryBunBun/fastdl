@@ -1,0 +1,9 @@
+"unlitgeneric"
+{
+	"$baseTexture"	"maoling/player/touhou/momiji/cloth"
+
+	//$alphatest 1
+	"$translucent"	1
+	"$nocull"		1
+	"$model"		1
+}
