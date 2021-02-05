@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "maoling/player/seirei_tsukai_no_blade_dance/terminus_est/est_hair"
+	"$halflambert" 1
+	$nocull 1
+}
