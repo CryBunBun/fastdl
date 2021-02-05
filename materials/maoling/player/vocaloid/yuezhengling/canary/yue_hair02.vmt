@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/vocaloid/yuezhengling/canary/Yue_hair02"
+	"$nocull" 1
+	"$nodecal" 1
+}
