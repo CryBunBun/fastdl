@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"maoling/player/touhou/momiji/cloth"
+	"$bumpmap"	"maoling/player/touhou/momiji/cloth_normal"
+
+	"$phong"			1
+	"$phongexponent"		0.5
+	"$phongboost"		0.1
+	"$phongfresnelranges"	"[0.2 0.5 1]"
+	"$lightwarptexture"		"maoling/player/touhou/momiji/lightwarp"
+
+	"$halflambert"	0
+	"$nocull"		1
+	"$model"		1
+}
