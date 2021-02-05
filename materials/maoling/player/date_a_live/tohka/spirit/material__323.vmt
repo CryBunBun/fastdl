@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "maoling/player/date_a_live/tohka/spirit/face_c"
+	"$halflambert" 1
+
+	$nocull 1
+}
