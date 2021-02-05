@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/utau/meiji/one_dress/face"
+	"$bumpmap" "maoling/player/utau/meiji/one_dress/normal"
+	"$nocull" "1"
+
+	"$lightwarptexture" "maoling/player/utau/meiji/one_dress/facewarp"
+	"$translucent" "1"
+}
