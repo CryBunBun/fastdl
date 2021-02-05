@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/re0/emilia_v2/pupil"
+	"$bumpmap" "maoling/player/re0/emilia_v2/normal"
+
+	"$lightwarptexture" "maoling/player/re0/emilia_v2/lightwarp"
+
+	"$phong" "1"
+	"$phongboost"	".5"
+	"$phongexponent" "2"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+}
