@@ -1,0 +1,6 @@
+"Unlitgeneric"
+{
+	"$basetexture" "maoling/player/haipa/black"
+	$model 1
+	//"$nocull" 1
+}
