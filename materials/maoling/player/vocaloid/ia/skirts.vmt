@@ -1,0 +1,30 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/vocaloid/ia/aaaaaahuku"
+	
+	"$phong" "1"
+	"$phongboost"	"2"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "maoling/player/vocaloid/ia/phong_exp"
+	"$phongfresnelranges"	"[.1 .1 5]"
+
+	"$lightwarptexture" "maoling/player/vocaloid/ia/cartoon_shader"
+
+	"$halflambert" "1"	
+	"$AmbientOcclusion" "1"	
+	"$nocull" "1"
+
+	// "$alphatest" "1"
+	
+	"$emissiveBlendEnabled" 1
+	"$emissiveBlendTexture"     "maoling/player/vocaloid/ia/null"
+	"$emissiveBlendBaseTexture"	"maoling/player/vocaloid/ia/aaaaaahuku"
+	"$emissiveBlendFlowTexture"  "maoling/player/vocaloid/ia/null"
+	"$emissiveBlendTint" "[1.0 1.0 1.0]"
+	"$emissiveBlendStrength" 0.1
+	"$emissiveBlendScrollVector" "[0 0]"
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "2"
+}
