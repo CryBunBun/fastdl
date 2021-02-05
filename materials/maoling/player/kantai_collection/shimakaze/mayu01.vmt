@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/kantai_collection/shimakaze/mayu01"
+	//"$nocull" 1
+}
