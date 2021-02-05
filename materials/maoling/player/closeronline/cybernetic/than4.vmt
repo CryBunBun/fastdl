@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "maoling/player/closeronline/cybernetic/than4"
+	"$bumpmap" "maoling/player/closeronline/cybernetic/normal"
+
+
+	"$phong" "1"
+	"$phongboost"	".04"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "50.0"
+}
