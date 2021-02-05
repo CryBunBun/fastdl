@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling\player\hongkai_impact3\kiana\body"
+	"$bumpmap" "maoling\player\hongkai_impact3\kiana\body_n"
+	"$nocull" "1"
+
+	$selfillum 1
+	//$selfillumtint "[1.25 1.25 1.25]"
+
+
+
+	"$phong" "1"
+	"$phongboost"	"1.3"
+	"$phongalbedotint" "1"
+        "$phongalbedoboost"	"25"
+	"$phongexponenttexture" "maoling\player\hongkai_impact3\kiana\body_e"
+	"$phongfresnelranges"	"[.6 .8 .5]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}
+
