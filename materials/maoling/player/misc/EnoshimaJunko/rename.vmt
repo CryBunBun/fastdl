@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/misc/EnoshimaJunko/"
+	//"$bumpmap" "maoling/player/misc/EnoshimaJunko/"
+
+ 	//"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost"	".3"
+	"$phongfresnelranges"	"[1 1 1]"
+
+	//$translucent 1
+	//$nocull 1
+}
