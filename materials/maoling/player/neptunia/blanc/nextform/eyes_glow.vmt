@@ -1,0 +1,21 @@
+vertexlitgeneric
+{
+
+$baseTexture "maoling/player/neptunia/blanc/nextform/eyes_glow"
+$selfillum 1
+$selfillumtint "[.2 .2 .2]"
+
+
+//"$nodecal" "1"
+
+
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "8"
+}
+}
+}
