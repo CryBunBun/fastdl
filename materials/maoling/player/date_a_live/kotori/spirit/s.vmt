@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "maoling/player/date_a_live/kotori/spirit/s"
+	"$bumpmap" "maoling/player/date_a_live/kotori/spirit/normal"
+
+	"$nodecal" "1"
+
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongexponent" "30"	
+	"$phongfresnelranges"	"[5 6 8]"
+
+}
