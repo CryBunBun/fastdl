@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/misc/rikka/hair"
+	//"$nocull" 1
+
+	$translucent 1
+}
