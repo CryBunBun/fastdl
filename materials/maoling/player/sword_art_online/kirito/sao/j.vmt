@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/sword_art_online/kirito/sao/j"
+	//"$nocull" 1
+}
