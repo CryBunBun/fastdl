@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/re0/emilia_v2/head"
+	"$bumpmap" "maoling/player/re0/emilia_v2/normal"
+
+	//"$lightwarptexture" "maoling/player/re0/emilia_v2/lightwarp"
+
+	"$halflambert"			"1"
+
+}
