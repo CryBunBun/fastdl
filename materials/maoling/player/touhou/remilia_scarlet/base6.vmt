@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/touhou/remilia_scarlet/base6"
+	$nocull 1
+}
