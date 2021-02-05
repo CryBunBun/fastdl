@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/date_a_live/kurumi/spirit/6"
+	"$alphatest" 1
+	"$nocull" 1
+}
