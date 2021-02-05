@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+"$basetexture" "maoling/weapon/borderlands2/knife/zero/sword/katana_zero"
+$selfillum 1
+$phong 1
+$phongboost 0
+$phongexponent 0
+$phongfresnelranges "[.1 .4 2]"
+
+}
