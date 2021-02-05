@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/haipa/black2"
+	$alphatest 1
+	$nocull 1
+}
