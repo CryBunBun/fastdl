@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/misc/rikka/purple"
+	"$bumpmap" "maoling/player/misc/rikka/normal"
+
+	"$nocull" 1
+
+	"$phong" "1"
+	"$phongboost"	".005"
+	"$phongalbedotint" "1"
+	$phongexponent 30
+	"$phongfresnelranges"	"[5 6 8]"
+}
