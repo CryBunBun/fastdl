@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/black_rock_shooter/brs/brsbody"
+	"$bumpmap" "maoling/player/black_rock_shooter/brs/normal"
+
+	"$lightwarptexture" "maoling/player/black_rock_shooter/brs/skinwarp"
+	//"$nodecal" "1"
+
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+
+
+}
