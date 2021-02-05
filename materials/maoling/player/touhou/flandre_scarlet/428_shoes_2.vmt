@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$basetexture "maoling/player/touhou/flandre_scarlet/428_shoes_2"
+	$bumpmap  "maoling/player/touhou/flandre_scarlet/428_shoes_2_normal"
+	$halflambert 0
+}
