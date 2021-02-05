@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/kantai_collection/yuudachi/face_poi"
+	"$nocull" 1
+	"$nodecal" 1
+}
