@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	$baseTexture "maoling/player/vocaloid/haku/uniform/hair_hakuop"
+	"$bumpmap" "maoling/player/vocaloid/haku/uniform/normal"
+
+	//$translucent 1
+	//$alphatest 1
+        	"$alphatestreference" "1 "
+	"$nodecal" "1"
+	$nocull 1
+	
+
+	"$lightwarptexture" "maoling/player/vocaloid/haku/uniform/hairwarp"
+
+	"$phong" "1"
+	"$phongboost"	".5"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "maoling/player/vocaloid/haku/uniform/phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}
