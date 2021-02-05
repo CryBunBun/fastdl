@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	// SKIRT
+
+	$basetexture "maoling/player/closeronline/violet/9_10"
+   	 "$bumpmap" "maoling/player/closeronline/violet/normal"
+
+	//$nocull 1
+	"$lightwarptexture" "maoling/player/closeronline/violet/clothwarp"
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+
+}
