@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "maoling/player/vocaloid/hatsune_miku/tda/face"
+	"$translucent" "1"
+	"$model" "1"
+}
