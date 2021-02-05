@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/neptunia/Million_Arthur/swimwear/acce2_c"
+	//"$nocull" 1
+	//$selfillum 1
+}
