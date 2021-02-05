@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/vocaloid/luka/baka/dng2a1"
+
+	"$color" "[.4 .1 .1]"
+	//$nocull 1
+	//"$translucent" "1"
+}
+
