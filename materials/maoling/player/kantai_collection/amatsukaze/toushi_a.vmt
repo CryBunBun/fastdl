@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/kantai_collection/amatsukaze/body_a"
+	"$nocull" 1
+}
