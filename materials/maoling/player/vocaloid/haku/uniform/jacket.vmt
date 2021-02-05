@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "maoling/player/vocaloid/haku/uniform/jacket"
+	"$bumpmap" "maoling/player/vocaloid/haku/uniform/normal"
+
+	"$phong" "1"
+	"$phongboost"	".03"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "maoling/player/vocaloid/haku/uniform/phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "1"
+
+	"$nocull" "1"
+
+}
