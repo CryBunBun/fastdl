@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\bbs_93x_net\girl\yoshino\yoshino"
+	"$nocull"		1
+}
