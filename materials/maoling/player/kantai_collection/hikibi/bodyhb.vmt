@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+
+$baseTexture "maoling/player/kantai_collection/hikibi/bodyhb"
+
+//$nocull 1
+}
