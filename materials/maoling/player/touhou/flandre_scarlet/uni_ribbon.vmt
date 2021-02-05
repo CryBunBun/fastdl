@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$basetexture "maoling/player/touhou/flandre_scarlet/uni_ribbon"
+	$bumpmap  "maoling/player/touhou/flandre_scarlet/uni_ribbon_normal"
+	//$lightwarptexture "models\survivors\gambler\gambler_head_wrp"
+}
