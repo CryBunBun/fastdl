@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	$basetexture "maoling/player/touhou/flandre_scarlet/428_hair_F_04_top"
+	$nocull 1
+	$bumpmap "maoling/player/touhou/flandre_scarlet/428_hair_normal"
+	$halflambert 1
+}
