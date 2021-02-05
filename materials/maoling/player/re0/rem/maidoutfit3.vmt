@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/re0/rem/maidoutfit3"
+
+	//$nocull 1
+	//"$translucent" "1"
+}
+
