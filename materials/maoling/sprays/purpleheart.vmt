@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture"	"maoling\sprays\purpleheart"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.25"
+}
