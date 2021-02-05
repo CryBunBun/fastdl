@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/re0/ram/hair"
+
+	$nocull 1
+	//"$translucent" "1"
+}
+
