@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/vocaloid/hatsune_miku/cybertech/body_misc"
+	"$bumpmap" "maoling/player/vocaloid/hatsune_miku/cybertech/normal"
+	"$translucent" "1"
+
+	"$lightwarptexture" "maoling/player/vocaloid/hatsune_miku/cybertech/basewarp"
+
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "maoling/player/vocaloid/hatsune_miku/cybertech/phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}
