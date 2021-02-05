@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/misc/rikka/white2"
+	//"$nocull" 1
+}
