@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/vocaloid/hatsune_miku/tda/tech"
+	"$bumpmap" "maoling/player/vocaloid/hatsune_miku/tda/normal"
+	"$nodecal" "1"
+
+	"$lightwarptexture" "maoling/player/vocaloid/hatsune_miku/tda/basewarp"
+
+	"$phong" "1"
+	"$phongboost"	"8"
+	"$phongexponent" "12"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+
+	"$detail" "maoling/player/vocaloid/hatsune_miku/tda/tech_illum"
+	"$detailscale" "1"
+	"$detailblendfactor" "0.05"
+	"$detailblendmode" "5"
+}
