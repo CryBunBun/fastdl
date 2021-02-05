@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/vocaloid/ia/IAFACE"
+
+	"$emissiveBlendEnabled" 1
+	"$emissiveBlendTexture"     "maoling/player/vocaloid/ia/null"
+	"$emissiveBlendBaseTexture"	"maoling/player/vocaloid/ia/IAFACE"
+	"$emissiveBlendFlowTexture"  "maoling/player/vocaloid/ia/null"
+	"$emissiveBlendTint" "[1.0 1.0 1.0]"
+	"$emissiveBlendStrength" 1
+	"$emissiveBlendScrollVector" "[0 0]"
+	
+	"$AmbientOcclusion" "0"	
+	"$alphatest" "1"
+	"$model" "1"
+	
+	"$nocull" "1"
+
+}
