@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/kantai_collection/hoppou/hyoj"
+	"$bumpmap" "maoling/player/kantai_collection/hoppou/normal"
+
+	"$lightwarptexture" "maoling/player/kantai_collection/hoppou/clothwarp"
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.5"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+
+}
