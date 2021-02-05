@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	$baseTexture "maoling/player/date_a_live/kotori/commander/g220s01a"
+
+	$alphatest 1
+	//$translucent 1
+	$nocull 1
+
+}
