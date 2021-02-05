@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	// STOCKINGS
+	$baseTexture "maoling/player/vocaloid/hatsune_miku/magnet/meia"
+	$bumpmap "maoling/player/vocaloid/hatsune_miku/magnet/normal"
+
+	//$nocull 1
+
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongexponent" "30"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	//"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          ".2"
+}
