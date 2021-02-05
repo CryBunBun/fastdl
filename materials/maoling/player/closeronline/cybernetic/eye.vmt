@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "maoling/player/closeronline/cybernetic/eye"
+	"$bumpmap" "maoling/player/closeronline/cybernetic/normal"
+
+}
