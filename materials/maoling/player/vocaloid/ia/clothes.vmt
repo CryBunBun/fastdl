@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/vocaloid/ia/aak_huku2"
+
+	"$phong" "1"
+	"$phongboost"	"2"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "maoling/player/vocaloid/ia/phong_exp"
+	"$phongfresnelranges"	"[.1 .1 5]"
+
+	"$lightwarptexture" "maoling/player/vocaloid/ia/cartoon_shader"
+
+	"$halflambert" "1"	
+	"$AmbientOcclusion" "1"	
+	"$nocull" "1"
+	// "$alphatest" "1"
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "2"
+}
