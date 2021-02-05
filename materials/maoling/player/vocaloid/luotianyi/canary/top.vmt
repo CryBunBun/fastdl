@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/vocaloid/luotianyi/canary/top"
+	$nocull 1
+	"$translucent" "1"
+}
+
