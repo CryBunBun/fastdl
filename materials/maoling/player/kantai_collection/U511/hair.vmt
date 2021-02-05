@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/kantai_collection/U511/hair"
+	"$bumpmap" "maoling/player/kantai_collection/U511/normal"
+
+	"$lightwarptexture" "maoling/player/kantai_collection/U511/toon_hair"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}
