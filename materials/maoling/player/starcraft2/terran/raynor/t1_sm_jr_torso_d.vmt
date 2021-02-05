@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/starcraft2/terran/raynor/t1_sm_jr_torso_d"
+	"$bumpmap" "maoling/player/starcraft2/terran/raynor/sm_jr_torso_normal"
+
+	"$phong" "1"
+	"$phongexponent" 10
+	"$phongboost" "2.5"
+	"$phongfresnelranges"	"[0.3 0.3 0.3]"
+			
+	"$rimlight" "1"		
+	"$rimlightexponent" "10"				
+	"$rimlightboost" "1"
+
+	$halflambert 1
+	$nocull 1
+}
