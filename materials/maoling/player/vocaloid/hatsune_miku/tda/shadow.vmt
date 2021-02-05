@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/vocaloid/hatsune_miku/tda/face"
+	"$bumpmap" "maoling/player/vocaloid/hatsune_miku/tda/normal"
+
+	"$lightwarptexture" "maoling/player/vocaloid/hatsune_miku/tda/facewarp"
+	"$translucent" "1"
+}
