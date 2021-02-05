@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/date_a_live/tohka/spirit/softgb"
+	"$halflambert" 1
+	$nocull 1
+}
