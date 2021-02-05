@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "maoling/player/date_a_live/kotori/spirit/g222s01a"
+	//"$bumpmap" "maoling/player/date_a_live/kotori/spirit/normal"
+
+	"$phong" "1"
+	"$phongboost"	".03"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "maoling/player/date_a_live/kotori/spirit/phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "1"
+
+	"$nocull" "1"
+
+}
