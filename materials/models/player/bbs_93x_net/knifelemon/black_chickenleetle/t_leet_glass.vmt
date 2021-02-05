@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\bbs_93x_net\knifelemon\black_chickenleetle\t_leet_glass"
+	
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models\player\bbs_93x_net\knifelemon\black_chickenleetle\t_leet_glass_spec"
+
+
+// Transparency
+	"$translucent" 1
+	"$nocull" 1
+	
+}
