@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/starcraft2/terran/raynor/t1_sm_jr_hair_diff"
+	"$bumpmap" "maoling/player/starcraft2/terran/raynor/sm_jr_hair_normal"
+
+	"$translucent" "1"
+	"$allowalphatocoverage" 1
+	"$Normalmapalphaenvmapmask" "1"	
+	"$phong" "1"
+	"$phongexponent" 10
+	"$phongboost" "2.5"
+	"$phongfresnelranges"	"[ .05 .05 0.05]"
+	$halflambert 1
+	$nocull 1
+}
