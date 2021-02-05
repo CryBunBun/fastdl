@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling/player/touhou/flandre_scarlet/428_eyes_a"
+	"$selfillum" 1
+	$nocull 1
+}
