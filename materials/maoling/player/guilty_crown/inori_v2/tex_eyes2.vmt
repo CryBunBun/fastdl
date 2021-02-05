@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/guilty_crown/inori_v2/tex_eyes2"
+	//"$nocull" 1
+}
