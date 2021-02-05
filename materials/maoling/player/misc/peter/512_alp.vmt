@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/misc/peter/512"
+	$alphatest 1
+}
