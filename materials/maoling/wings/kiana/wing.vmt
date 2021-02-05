@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "maoling\wings\kiana\wing"
+	"$translucent" "1"
+	"$nodecal" "1"
+	"$selfillum" "1"
+	"$selfillumtint" "[255 227 110]"
+	"$nocull" "1"
+
+	"$cloakpassenabled" "1"
+	"$cloakfactor" "0.95"
+	"$cloakcolortint" "[255 227 110]"
+	"$refractamount" "0"
+
+}
