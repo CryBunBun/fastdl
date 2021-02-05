@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$basetexture "maoling/player/touhou/flandre_scarlet/uni_jac_sode"
+	$bumpmap  "maoling/player/touhou/flandre_scarlet/uni_jac_sode_normal"
+	$halflambert 1
+}
