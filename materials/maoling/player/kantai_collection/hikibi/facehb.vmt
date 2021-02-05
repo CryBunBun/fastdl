@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+
+$baseTexture "maoling/player/kantai_collection/hikibi/facehb"
+
+//$nocull 1
+//$translucent 1
+}
