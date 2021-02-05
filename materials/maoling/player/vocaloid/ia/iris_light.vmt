@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "maoling/player/vocaloid/ia/white"
+
+	"$lightwarptexture" "maoling/player/vocaloid/ia/face_shader"
+	
+	"$AmbientOcclusion" "0"	
+	// "$translucent" "0"
+	// "$additive" "1"
+	"$model" "1"
+	
+	"$nocull" "1"
+
+}
