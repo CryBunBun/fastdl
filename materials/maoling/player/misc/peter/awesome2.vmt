@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "maoling/player/misc/peter/awesome2"
+	//"$bumpmap" "maoling/player/misc/banana_joe/slow_body_bump"
+
+ 	//"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost"	".3"
+	"$phongfresnelranges"	"[1 1 1]"
+}
