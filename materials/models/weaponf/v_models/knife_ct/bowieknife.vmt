@@ -1,0 +1,6 @@
+"Vertexlitgeneric"
+{
+	"$basetexture"	"models\weaponf\v_models\knife_ct\knife"
+	"$bumpmap"	"models\weaponf\v_models\knife_ct\knife_normal"
+	"$basealphaenvmapmask"	"1"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weaponf/ultimate/texture_2"
+       // "$envmap" 			"env_cubemap"
+
+}
