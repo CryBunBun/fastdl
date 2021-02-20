@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	"$baseTexture"		"models/items/courier/jumo/jumo_color"
+	"$bumpmap"		"models/items/courier/jumo/jumo_normal"
+	"$maskmap1"		"models/items/courier/jumo/jumo_mask1"
+	"$PhongAlbedoTint" "1"
+	"$phongexponenttexture"		"models/items/courier/jumo/jumo_mask2"
+	"$ALPHATEST"		"1"
+	"$SPECULAREXPONENT"		"16"
+	"$SPECULARSCALE"		"1"
+	"$RIMLIGHTSCALE"		"1"
+	"$RIMLIGHTCOLOR"		"[1 1 1]"
+	"$cloakPassEnabled"		"1"
+	"Proxies"
+	{
+		"invis_proxy"
+		{
+		}
+		"status_proxy"
+		{
+		}
+	}
+}

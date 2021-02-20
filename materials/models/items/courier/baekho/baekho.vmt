@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	"$baseTexture"		"models/items/courier/baekho/baekho_color"
+	"$bumpmap"		"models/items/courier/baekho/baekho_normal"
+	"$maskmap1"		"models/items/courier/baekho/baekho_mask1"
+	"$PhongAlbedoTint" "1"
+	"$phongexponenttexture"		"models/items/courier/baekho/baekho_mask2"
+	"$SPECULAREXPONENT"		"16"
+	"$SPECULARSCALE"		"1"
+	"$RIMLIGHTSCALE"		"1"
+	"$RIMLIGHTCOLOR"		"[1 1 1]"
+	"$cloakPassEnabled"		"1"
+	"$alphatest" "1"
+	"Proxies"
+	{
+		"invis_proxy"
+		{
+		}
+		"status_proxy"
+		{
+		}
+	}
+}

@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	"$baseTexture"		"models/items/courier/boooofus_courier/boooofus_courier_color"
+	"$bumpmap"		"models/items/courier/boooofus_courier/boooofus_courier_normal"
+	"$maskmap1"		"models/items/courier/boooofus_courier/boooofus_courier_mask1"
+	"$PhongAlbedoTint" "1"
+	"$phongexponenttexture"		"models/items/courier/boooofus_courier/boooofus_courier_mask2"
+	"$ALPHATEST"		"1"
+	"$SPECULAREXPONENT"		"16"
+	"$SPECULARSCALE"		"1"
+	"$RIMLIGHTSCALE"		"1"
+	"$RIMLIGHTCOLOR"		"[1 1 1]"
+	"$cloakPassEnabled"		"1"
+	"Proxies"
+	{
+		"invis_proxy"
+		{
+		}
+		"status_proxy"
+		{
+		}
+	}
+}
