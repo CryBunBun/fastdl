@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\xnet\girl\emerald_miku\face"
+	"$bumpmap" "models\player\xnet\girl\emerald_miku\normal"
+	"$nodecal" "1"
+
+	"$lightwarptexture" "models\player\xnet\girl\emerald_miku\facewarp"
+
+	"$phong" "1"
+	"$phongboost"	"15"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\player\xnet\girl\emerald_miku\phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "7"
+	"$rimlightboost"          "1"
+}

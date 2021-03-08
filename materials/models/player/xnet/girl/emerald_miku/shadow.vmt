@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\xnet\girl\emerald_miku\face"
+	"$bumpmap" "models\player\xnet\girl\emerald_miku\normal"
+
+	"$lightwarptexture" "models\player\xnet\girl\emerald_miku\facewarp"
+	"$translucent" "1"
+}

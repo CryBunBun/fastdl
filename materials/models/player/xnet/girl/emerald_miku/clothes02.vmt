@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\xnet\girl\emerald_miku\clothes02"
+	"$bumpmap" "models\player\xnet\girl\emerald_miku\normal"
+	"$nocull" "1"
+
+	"$lightwarptexture" "models\player\xnet\girl\emerald_miku\basewarp"
+
+	"$phong" "1"
+	"$phongboost"	".07"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\player\xnet\girl\emerald_miku\phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "7"
+	"$rimlightboost"          "1"
+
+	"$detail" "models\player\xnet\girl\emerald_miku\clothes02_illum"
+	"$detailscale" "1"
+	"$detailblendfactor" ".02"
+	"$detailblendmode" "5"
+}
+

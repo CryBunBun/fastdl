@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\player\xnet\girl\emerald_miku\face"
+	"$translucent" "1"
+	"$model" "1"
+}
